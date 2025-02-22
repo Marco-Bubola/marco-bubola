@@ -2,6 +2,15 @@
 
 Sou estudante de Desenvolvimento de Software Multeplataforma na Fatec, no 3º período. Estou no começo da minha jornada como desenvolvedor, focado em aprender e melhorar minhas habilidades em programação.
 
+## 🚀 O que estou aprendendo
+- **Back-End**: Estudando PHP para construir aplicações robustas.
+- **Front-End**: Aprimorando minhas habilidades em HTML e CSS e .javascript
+- **Banco de Dados**: Focado em aprender sobre MySQL e integração com aplicações.
+
+
+## 📊 GitHub Stats
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobubola&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Marco-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +20,7 @@ Sou estudante de Desenvolvimento de Software Multeplataforma na Fatec, no 3º pe
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/marco-bubola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marco-bubola-899847352/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:marcobubola@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
