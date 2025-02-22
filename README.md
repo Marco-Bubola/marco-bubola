@@ -8,9 +8,6 @@ Sou estudante de Desenvolvimento de Software Multeplataforma na Fatec, no 3º pe
 - **Banco de Dados**: Focado em aprender sobre MySQL e integração com aplicações.
 
 
-## 📊 GitHub Stats
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcobubola&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 <div style="display: inline_block"><br>
     <img align="center" alt="Marco-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Marco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
